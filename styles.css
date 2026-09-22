@@ -134,7 +134,7 @@ a {
   align-items: center;
   border: 1px solid var(--office-line);
   display: inline-flex;
-  font-size: 14px;
+  font-size: 16px;
   gap: 10px;
   justify-content: flex-start;
   min-height: 48px;
@@ -282,7 +282,7 @@ a {
 
   .office-contact__social {
     flex: 0 0 auto;
-    font-size: 14px;
+    font-size: 16px;
     gap: 10px;
     padding: 8px 12px;
     width: 100%;
