@@ -66,7 +66,7 @@ a {
 .office-contact__grid {
   align-items: stretch;
   display: grid;
-  grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+  grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
   min-height: 540px;
 }
 
